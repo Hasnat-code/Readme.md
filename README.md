@@ -1,18 +1,54 @@
+<!-- Animated Typing Intro -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+Muhammad+Hasnat+Imtiaz+is+here;Software+Engineering+Student;Cybersecurity+%7C+DevOps+%7C+Web+Dev;Building+cool+projects+🚀" alt="Typing SVG" />
+</p>
+
+<!-- Banner -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0066FF&height=180&section=header&text=Hasnat%20Imtiaz&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+# Hi Muhammad Hasnat Imtiaz is here
+
 # About Me:
-👋 Hi Section<br>Hi there! I'm Muhammad Hasnat Imtiaz<br>A passionate Software Engineer and CS Student at COMSATS University<br>🚀 About Me Section<br>- 🎓 Computer Science Student at COMSATS University<br>- 💻 Software Engineer specializing in Web Development, Java, and C++<br>- 🔭 Currently working on Electricity Bill Management System and F1 Prediction Desktop App<br>- 🌱 Exploring DevOps practices and tools<br>- ⚡ Fun fact: I'm passionate about Formula 1 and Football<br>- 🤝 Open to collaborations and new opportunities<br>- 📫 Building in public and always eager to learn<br>💼 Skills Section<br>Languages:<br>Java, C++, Python<br>Frameworks & Technologies:<br>Python Development<br>Tools & Environment:<br>VS Code, Git, CLion, Cursor, IntelliJ IDEA<br>🎯 Current Focus Section<br>- 🔧 Building robust software solutions<br>- 📊 Working on Electricity Bill Management System<br>- 🏎️ Developing F1 Prediction Desktop Application<br>- 🚀 Learning DevOps methodologies<br>📫 Connect With Me Section<br>Let's connect and collaborate!<br>LinkedIn: https://www.linkedin.com/in/muhammad-hasnat-imtiaz-817647310<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hasnat_imtiaz?igsh=MWFzM2JhMzZvZ3FjcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hasnat-imtiaz-817647310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HasnatG75451291?t=6Gwtf1fGbPn415wtJtPJjg&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnatimtiaz949@gmail.com) 
+Hi there! I'm **Muhammad Hasnat Imtiaz**
+Currently studying **Software Engineering** with interests in **Cybersecurity, DevOps, Web Development, and Designing**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hasnat-code&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hasnat-code&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-code&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💼 Skills Section
+**Languages:**
+`Java` `C++` `Python` `HTML` `CSS` `JavaFX` `Database` `DSA` `OOP`
+**Tools:**
+`VS Code` `Git` `IntelliJ` `CLion`
+
+
+📫 Connect With Me Section
+LinkedIn: [https://www.linkedin.com/in/muhammad-hasnat-imtiaz-817647310](https://www.linkedin.com/in/muhammad-hasnat-imtiaz-817647310)
+Email: [hasnatimtiaz949@gmail.com](mailto:hasnatimtiaz949@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hasnat-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Hasnat-code\&theme=merko\&hide_border=false\&count_private=false\&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-code\&theme=merko\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-code\&theme=merko\&hide_border=false\&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Hasnat-code\&theme=matrix\&no-frame=true\&margin-w=10)
+
+## 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Hasnat-code\&theme=github-compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Hasnat-code\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+
+
+
