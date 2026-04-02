@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0066FF&height=180&section=header&text=Hasnat%20Imtiaz&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-# Hi Muhammad Hasnat Imtiaz is here
+# Hi, Muhammad Hasnat Imtiaz is here
 
 # About Me:
 
