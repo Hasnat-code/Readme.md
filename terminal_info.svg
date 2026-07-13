@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="760"
+  height="690"
+  viewBox="0 0 760 690"
+  font-family="ConsolasFallback, Consolas, 'Courier New', monospace"
+  font-size="20"
+>
+  <style>
+    @font-face {
+      src: local("Consolas"), local("Consolas Bold");
+      font-family: "ConsolasFallback";
+      font-display: swap;
+      size-adjust: 109%;
+    }
+
+    text,
+    tspan {
+      white-space: pre;
+    }
+
+    .username {
+      fill: #39ff72;
+      font-weight: 700;
+      font-size: 23px;
+    }
+
+    .main {
+      fill: #e6edf3;
+    }
+
+    .orange {
+      fill: #ffa657;
+      font-weight: 700;
+    }
+
+    .yellow {
+      fill: #f2e85c;
+      font-weight: 700;
+    }
+
+    .cyan {
+      fill: #66d9ef;
+      font-weight: 700;
+    }
+
+    .purple {
+      fill: #c678dd;
+      font-weight: 700;
+    }
+
+    .pink {
+      fill: #ff5fd2;
+      font-weight: 700;
+    }
+
+    .green {
+      fill: #50fa7b;
+      font-weight: 700;
+    }
+
+    .divider {
+      fill: #616e7f;
+    }
+
+    .value {
+      fill: #e6edf3;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect
+    width="760"
+    height="690"
+    rx="12"
+    fill="#0d0f10"
+  />
+
+  <!-- All profile information -->
+  <text x="28" y="45" class="main">
+
+    <!-- Username -->
+    <tspan x="28" y="45" class="username">hasnat@dev</tspan>
+
+    <!-- Divider -->
+    <tspan x="28" y="78" class="divider">────────────────────────────────────────────────────</tspan>
+
+    <!-- Role and focus -->
+    <tspan x="28" y="116" class="orange">Role:</tspan>
+    <tspan class="value"> Software Engineering Student</tspan>
+
+    <tspan x="28" y="148" class="orange">Focus:</tspan>
+    <tspan class="value"> Cybersecurity, DevOps, Web Development,</tspan>
+
+    <tspan x="113" y="180" class="value">Software Testing</tspan>
+
+    <!-- Languages -->
+    <tspan x="28" y="225" class="yellow">Languages &amp; Frameworks</tspan>
+
+    <tspan x="28" y="262" class="cyan">Frontend:</tspan>
+    <tspan class="value"> JavaScript, React, Next.js, HTML, CSS</tspan>
+
+    <tspan x="28" y="296" class="cyan">Backend:</tspan>
+    <tspan class="value"> Node.js, Java, Python, C++</tspan>
+
+    <tspan x="28" y="330" class="cyan">Concepts:</tspan>
+    <tspan class="value"> OOP, DSA, Databases</tspan>
+
+    <!-- Interests -->
+    <tspan x="28" y="377" class="purple">Interests</tspan>
+
+    <tspan x="28" y="414" class="pink">Industry:</tspan>
+    <tspan class="value"> System Design, Software Development,</tspan>
+
+    <tspan x="130" y="446" class="value">Web Development, UI/UX Design, Web Design,</tspan>
+
+    <tspan x="130" y="478" class="value">DevOps, Cybersecurity, Software Testing</tspan>
+
+    <!-- Tools -->
+    <tspan x="28" y="525" class="green">Tools</tspan>
+
+    <tspan x="28" y="562" font-weight="700">AI:</tspan>
+    <tspan class="value"> Claude, ChatGPT</tspan>
+
+    <tspan x="28" y="596" font-weight="700">Dev:</tspan>
+    <tspan class="value"> VS Code, Git, GitHub, IntelliJ, CLion,</tspan>
+
+    <tspan x="84" y="628" class="value">Vercel</tspan>
+
+    <!-- Contact divider -->
+    <tspan x="28" y="658" class="divider">────────────────────────────────────────────────────</tspan>
+  </text>
+</svg>
