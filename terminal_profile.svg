@@ -1,0 +1,190 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1536"
+  height="730"
+  viewBox="0 0 1536 730"
+>
+  <style>
+    .text {
+      font-family: "Courier New", Consolas, monospace;
+      font-size: 16px;
+      fill: #e6e6e6;
+    }
+
+    .normal {
+      font-weight: 400;
+    }
+
+    .bold {
+      font-weight: 700;
+    }
+
+    .green {
+      fill: #42ff76;
+    }
+
+    .yellow {
+      fill: #f1e766;
+    }
+
+    .cyan {
+      fill: #65ddff;
+    }
+
+    .purple {
+      fill: #ce7cff;
+    }
+
+    .pink {
+      fill: #ff5fd2;
+    }
+
+    .orange {
+      fill: #ffb04f;
+    }
+
+    .white {
+      fill: #e8e8e8;
+    }
+
+    .divider {
+      stroke: #555b61;
+      stroke-width: 1;
+      stroke-dasharray: 5 6;
+    }
+  </style>
+
+  <!-- Terminal background -->
+  <rect width="1536" height="730" fill="#0d0e0f" />
+
+  <!-- Left-side PNG -->
+  <image
+    href="./ascii_art.png"
+    x="18"
+    y="20"
+    width="705"
+    height="690"
+    preserveAspectRatio="xMidYMid meet"
+  />
+
+  <!-- Right-side content -->
+  <g transform="translate(775,45)">
+
+    <!-- Username -->
+    <text x="0" y="12" class="text bold green">
+      hasnat@dev
+    </text>
+
+    <!-- Top divider -->
+    <line x1="0" y1="33" x2="425" y2="33" class="divider" />
+
+    <!-- Role -->
+    <text x="0" y="61" class="text">
+      <tspan class="bold orange">Role:</tspan>
+      <tspan class="white"> Software Engineering Student</tspan>
+    </text>
+
+    <!-- Focus -->
+    <text x="0" y="87" class="text">
+      <tspan class="bold orange">Focus:</tspan>
+      <tspan class="white">
+        Cybersecurity, DevOps, Web Development, Software Testing
+      </tspan>
+    </text>
+
+    <!-- Languages heading -->
+    <text x="0" y="120" class="text bold yellow">
+      Languages &amp; Frameworks
+    </text>
+
+    <!-- Frontend -->
+    <text x="0" y="147" class="text">
+      <tspan class="bold cyan">Frontend:</tspan>
+      <tspan class="white"> JavaScript, React, Next.js, HTML, CSS</tspan>
+    </text>
+
+    <!-- Backend -->
+    <text x="0" y="173" class="text">
+      <tspan class="bold cyan">Backend:</tspan>
+      <tspan class="white"> Node.js, Java, Python, C++</tspan>
+    </text>
+
+    <!-- Concepts -->
+    <text x="0" y="199" class="text">
+      <tspan class="bold cyan">Concepts:</tspan>
+      <tspan class="white"> OOP, DSA, Databases</tspan>
+    </text>
+
+    <!-- Interests heading -->
+    <text x="0" y="235" class="text bold purple">
+      Interests
+    </text>
+
+    <!-- Industry line 1 -->
+    <text x="0" y="262" class="text">
+      <tspan class="bold pink">Industry:</tspan>
+      <tspan class="white">
+        System Design, Software Development, Web Development,
+      </tspan>
+    </text>
+
+    <!-- Industry line 2 -->
+    <text x="97" y="287" class="text white">
+      UI/UX Design, Web Design, DevOps, Cybersecurity,
+    </text>
+
+    <!-- Industry line 3 -->
+    <text x="97" y="312" class="text white">
+      Software Testing
+    </text>
+
+    <!-- Tools heading -->
+    <text x="0" y="351" class="text bold green">
+      Tools
+    </text>
+
+    <!-- AI -->
+    <text x="0" y="378" class="text">
+      <tspan class="bold white">AI:</tspan>
+      <tspan class="white"> Claude, ChatGPT</tspan>
+    </text>
+
+    <!-- Development tools -->
+    <text x="0" y="404" class="text">
+      <tspan class="bold white">Dev:</tspan>
+      <tspan class="white">
+        VS Code, Git, GitHub, IntelliJ, CLion, Vercel
+      </tspan>
+    </text>
+
+    <!-- Contact divider -->
+    <line x1="0" y1="438" x2="425" y2="438" class="divider" />
+
+    <!-- Contact heading -->
+    <text x="0" y="470" class="text bold yellow">
+      Contact
+    </text>
+
+    <!-- Email -->
+    <text x="0" y="497" class="text">
+      <tspan class="bold orange">Email:</tspan>
+      <tspan class="white"> hasnatimtiaz949@gmail.com</tspan>
+    </text>
+
+    <!-- LinkedIn -->
+    <text x="0" y="523" class="text">
+      <tspan class="bold orange">LinkedIn:</tspan>
+      <tspan class="white">
+        muhammad-hasnat-imtiaz-817647310
+      </tspan>
+    </text>
+
+    <!-- GitHub -->
+    <text x="0" y="549" class="text">
+      <tspan class="bold orange">GitHub:</tspan>
+      <tspan class="white"> Hasnat-code</tspan>
+    </text>
+
+  </g>
+</svg>
